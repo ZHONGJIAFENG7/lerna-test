@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "ui-lib": "1.0.0"
-  }
+  },
+  "gitHead": "d65e760b040aa5df17857016c3198d101f51cc2e"
 }

@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "ndogkit": "^1.0.2"
-  }
+  },
+  "gitHead": "d65e760b040aa5df17857016c3198d101f51cc2e"
 }
