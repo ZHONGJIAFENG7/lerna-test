@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/doc",
+    "packages/ndogkit",
+    "packages/ui-app",
+    "packages/vue"
+  ],
+  "scripts": {
+    "boot": "lerna bootstrap",
+    "build": "lerna run --stream --sort build",
+    "clean": "yarn workspaces run clean",
+    "test": "yarn workspaces run test",
+    "version": "lerna version"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "lodash": "^4.17.21"
+  }
+}
