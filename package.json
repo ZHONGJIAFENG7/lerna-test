@@ -2,10 +2,8 @@
   "name": "root",
   "private": true,
   "workspaces": [
-    "packages/doc",
-    "packages/ndogkit",
-    "packages/ui-app",
-    "packages/vue"
+    "packages/dockit",
+    "packages/ndogkit"
   ],
   "scripts": {
     "boot": "lerna bootstrap",
