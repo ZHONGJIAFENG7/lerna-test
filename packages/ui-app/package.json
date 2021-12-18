@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://registry.npm.release.ctripcorp.com/"
-  },
   "repository": {
     "type": "git",
     "url": "http://10.1.98.80/front-end/shpd/xgyqfk-ui.git"
@@ -26,5 +23,5 @@
   "dependencies": {
     "ui-lib": "1.0.0"
   },
-  "gitHead": "60253f03c2d90154077688c7408c729b867d532a"
+  "gitHead": "f6946aa58c696b9c571f22e8afe905cee583d6c2"
 }
