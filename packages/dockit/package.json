@@ -1,5 +1,5 @@
 {
-  "name": "doc",
+  "name": "dockit",
   "version": "1.2.4",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   "dependencies": {
     "ndogkit": "^1.2.0"
   },
-  "gitHead": "5936f66533aceb3a12dccf8ffa237461f7407962"
+  "gitHead": "0cae99090a325101164cfed685a7c1304e9337ab"
 }
