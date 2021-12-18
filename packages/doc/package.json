@@ -1,6 +1,6 @@
 {
   "name": "doc",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ndogkit": "^1.1.0"
+    "ndogkit": "^1.2.0"
   },
   "gitHead": "5334dba59300fdf8e271cd2222421100c9ad210b"
 }
