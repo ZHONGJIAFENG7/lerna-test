@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://registry.npm.release.ctripcorp.com/"
-  },
   "repository": {
     "type": "git",
     "url": "http://10.1.98.80/front-end/shpd/xgyqfk-ui.git"
@@ -23,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "f6946aa58c696b9c571f22e8afe905cee583d6c2"
+  "gitHead": "5334dba59300fdf8e271cd2222421100c9ad210b"
 }
